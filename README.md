@@ -1,4 +1,4 @@
-![welcome]()<a href="https://discord.gg/szwEkeWMB7"> <img src="https://i.imgur.com/O9LWlvJ.gif" align="right"/>
+<img src="https://i.imgur.com/O9LWlvJ.gif" align="right"/>
 
 - 💫 Started Coding 2020
 - 💎 Learning Discord.js.
