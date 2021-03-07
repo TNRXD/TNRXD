@@ -3,7 +3,7 @@
 - 💫 Started Coding 2020
 - 💎 Learning Discord.js.
 - 📣 Working On Flix Bot.
-- ⚡ Fun fact: I'm Trash At Coding.
+- ⚡ Discord: NameFlix#9999
 
 ### Languages and Tools:
 
@@ -19,8 +19,8 @@
 ### 🖤 DISCORD SERVER'S - BOTS
 
 <!-- DISCORD:START -->
-- [SUPPORT DISCORD SERVER](https://discord.gg/szwEkeWMB7)
-- [FLIX BOT - CURRENTLY WORKING ON HIM.] LINK WON'T WORK!
+- [SUPPORT DISCORD SERVER] - WORKING
+- [FLIX BOT] - LINK WON'T WORK!
 <!-- DISCORD:END -->
 
 ---
