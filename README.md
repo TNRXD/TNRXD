@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/O9LWlvJ.gif" align="right"/>
 
 - 💫 Started Coding 2020
-- 💎 Learning Discord.js.
-- 📣 Working On Flix Bot.
+- 💎 Learning C++.
+- 📣 Working On NameFlix AIO.
 - ⚡ Discord: NameFlix#9999
 
 ### Languages and Tools:
@@ -19,7 +19,7 @@
 ### 🖤 DISCORD SERVER'S - BOTS
 
 <!-- DISCORD:START -->
-- [SUPPORT DISCORD SERVER] - WORKING
+- [SUPPORT DISCORD SERVER] - LINK WON'T WORK!
 - [FLIX BOT] - LINK WON'T WORK!
 <!-- DISCORD:END -->
 
